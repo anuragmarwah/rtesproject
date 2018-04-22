@@ -1,5 +1,5 @@
-# rtesproject
-This repository is for my graduate course project at NYU in the subject Real-Time Embedded System.
+# Real-time Embedded System Project
+This repository is for the graduate course project at NYU in the subject Real-Time Embedded Systems during Spring 18.
 
 ## Overview
 - This is a team project and the member names are given below:
